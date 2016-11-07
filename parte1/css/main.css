@@ -1,1 +1,26 @@
-/* Inserta tu CSS aqui */
+.caja1{
+	height: 400px;
+	width: 400px;
+	background-color: orange;
+	position: static;
+}
+
+.caja2{
+	height: 200px;
+	width: 200px;
+	background-color: purple;
+	position: absolute;
+	left: 100px;
+	top: 100px;
+}
+
+.caja3{
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+	position: absolute;
+}
+
+div{
+	display: block;
+}

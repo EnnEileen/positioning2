@@ -1,1 +1,28 @@
-/* Inserta tu CSS aqui */
+.caja1{
+	height: 400px;
+	width: 400px;
+	background-color: dodgerblue;
+	position: relative;
+}
+
+.caja2{
+	height: 200px;
+	width: 200px;
+	background-color: darkgreen;
+	position: absolute;
+	left: 100px;
+	top: 100px;
+}
+
+.caja3{
+	height: 100px;
+	width: 100px;
+	background-color: black;
+	position: relative;
+	right: 100px;
+	bottom: 100px;
+}
+
+div{
+	display: block;
+}/* Inserta tu CSS aqui */
